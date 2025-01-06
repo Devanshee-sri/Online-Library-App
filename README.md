@@ -6,7 +6,7 @@ Tailwind Css
 Responsive Design
 -- Usage for Local with github link:-
 
-git clone https://github.com/Devanshee-sri/Online Library App
+git clone https://github.com/Devanshee-sri/Online-Library-App
 cd "folderName"
 npm install
 npm run dev
